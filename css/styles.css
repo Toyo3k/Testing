@@ -1,0 +1,28 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.fw-bold {
+  font-weight: bold;
+  color: #0645ad;
+}
+
+.card-body {
+  font-size: 0.95rem;
+}
+
+a {
+  color: #0645ad;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  color: #0b0080;
+}
